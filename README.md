@@ -2,7 +2,7 @@
      PHP Symfony interview project
 	 
 	 
-1> Project Folder                                 :   SymfonyTech	
+1> Project Folder                                 :   https://github.com/rajeevnaikzend/Techmahindratest	
 
 2> Project URL                                    :   http://127.0.0.1:8000
 
