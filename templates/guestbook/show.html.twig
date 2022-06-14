@@ -1,0 +1,7 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <br/>
+    {{ guestBook.description }}
+   <br/><br/> <image src="{{ '/uploads/' ~ guestBook.image }}" alt="">
+{% endblock %}    
